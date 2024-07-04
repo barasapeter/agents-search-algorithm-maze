@@ -19,7 +19,7 @@
 # The do_random_prime function resets the maze, runs the 
 # random_prime function, and generates a random maze.
 
-# ___________________________OBJECT CLASS DIAGRAM________________________
+# __________________________OBJECT CLASS DIAGRAM________________________
 #  +----------+
 #  | Direction|
 #  +----------+

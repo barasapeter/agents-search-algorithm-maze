@@ -1,7 +1,3 @@
-
-
-# _________________________________PSEUDOCODE___________________________________
-
 # The code imports several modules, including shelve, pygame, os, sys, subprocess, and tkinter.
 # It also defines a list of database files and three functions: record_user_data(), view_scores(), and StartGame.
 

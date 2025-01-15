@@ -1,5 +1,5 @@
 # Import the required libraries
-from random import randint, choice
+from random import randint, choice 
 
 # Define two classes for the two cell types and four directions
 class CellType:

@@ -1,4 +1,4 @@
-# The code imports several modules, including shelve, pygame, os, sys, subprocess, and tkinter.
+# The code imports several modules, including shelve, pygame, os, sys, subprocess, and 
 # It also defines a list of database files and three functions: record_user_data(), view_scores(), and StartGame
 
 # The record_user_data() function stores user data in a database file named ".gamedata" using the shelve module

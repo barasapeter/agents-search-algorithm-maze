@@ -1,5 +1,4 @@
 from random import randint, choice 
-
 # Define two classes for the two cell types and four directions
 class CellType:
     ROAD = 0  # A road cell
